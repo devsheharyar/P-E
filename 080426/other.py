@@ -1,0 +1,2 @@
+thenew= 'name'
+print(thenew)

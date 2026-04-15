@@ -1,9 +1,14 @@
-print("love")
 
-print ("Pakistan")
-# this is the end
+from other import thenew
+# print("love")
 
-print ("all")
-print ("this is new code base after the updation")
+# print ("Pakistan")
+# # this is the end
+
+# print ("all")
+print ("What is your name please")
 name= input()
-print(name)
+print("what is your father name please")
+fname=input()
+print("hello",name,fname)
+#print(thenew)
